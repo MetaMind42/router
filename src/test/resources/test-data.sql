@@ -1,0 +1,2 @@
+DELETE FROM WKSP_LINKS.LINK;
+INSERT INTO WKSP_LINKS.LINK (ID, PATH, URL) VALUES (1, 'github', 'https://github.com');
