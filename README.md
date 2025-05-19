@@ -1,6 +1,6 @@
 # Router
 
-Root domain to Telegram channel redirection service with custom URL shortening at jakubpejzl.me/*.
+Root domain to Telegram channel redirection service with custom URL shortener at jakubpejzl.me/*.
 
 ## Stack
 
