@@ -20,4 +20,4 @@ java -jar target/router-23.05.jar
 
 ## License
 
-I released this project under [MIT License](https://opensource.org/license/mit). Use freely for any purpose. Copy, modify, distribute or commercialize without permission. Provided the copyright notice and permission notice are included in all copies or substantial portions of the file.
+Released this project under [MIT License](https://opensource.org/license/mit). Use freely for any purpose. Copy, modify, distribute or commercialize without permission. Provided the copyright notice and permission notice are included in all copies or substantial portions of the file.
